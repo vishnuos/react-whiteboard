@@ -1,6 +1,6 @@
 # This is whiteboard application
 
-The purpose of this application was to practise with [react](https://facebook.github.io/react/) and [imutable.js](https://facebook.github.io/immutable-js/)
+The purpose of this application to create whiteboard using [react](https://facebook.github.io/react/) and [imutable.js](https://facebook.github.io/immutable-js/)
 
 If you like to play with application, there is brief instructions:
 
