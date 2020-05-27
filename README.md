@@ -13,7 +13,7 @@ git clone https://github.com/vishnuos/react-whiteboard.git
 make sure you have nodejs and those packages (babel webpack webpack-dev-server) globally installed, if not, install fresh [node.js](https://nodejs.org), then
 
 ```
-npm i babel webpack webpack-dev-server -g
+npm install
 ```
 
 to start application in development mode run
